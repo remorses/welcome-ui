@@ -28,7 +28,7 @@ export const FileDrop = forwardRef(
     {
       accept = 'image/*',
       children = DefaultContent,
-      disabled,
+      disabled = false, // `getInputProps` treats `undefined` as truthy
       isEditable,
       isRemovable,
       maxSize = DEFAULT_MAX_FILE_SIZE,
