@@ -12,6 +12,7 @@
     "type": "git",
     "url": "git+https://github.com/WTTJ/welcome-ui.git"
   },
+  "homepage": "http://welcome-ui.com",
   "keywords": [
     "design-system",
     "react",
