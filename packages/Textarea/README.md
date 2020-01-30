@@ -1,16 +1,6 @@
 # @welcome-ui/textarea v1.5.2
-<<<<<<< HEAD
-<<<<<<< HEAD
 
 The [Textarea](http://welcome-ui.com/fields/textarea) component from [@welcome-ui](http://welcome-ui.com).
-=======
-  
-The **[Textarea](http://welcome-ui.com/fields/textarea)** component from [@welcome-ui](http://welcome-ui.com).
->>>>>>> chore: create script for updating README files
-=======
-
-The [Textarea](http://welcome-ui.com/fields/textarea) component from [@welcome-ui](http://welcome-ui.com).
->>>>>>> docs: remove doc links from components with no docs
 
 ## Installation
 

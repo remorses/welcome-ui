@@ -49,25 +49,13 @@ const getReadmeContent = pkg => {
     config: { homepage: documentation, name, version }
   } = pkg
 
+  const hasDocs = documentation !== 'http://welcome-ui.com'
+
   const content = `# ${name} v${version}
-<<<<<<< HEAD
-<<<<<<< HEAD
 
-<<<<<<< HEAD
-The ${documentation ? `[${componentName}](${documentation})` : componentName} component from [@welcome-ui](http://welcome-ui.com).
-=======
-  
-The **[${componentName}](${documentation})** component from [@welcome-ui](http://welcome-ui.com).
->>>>>>> chore: create script for updating README files
-=======
-
-The ${documentation ? `[${componentName}](${documentation})` : componentName} component from [@welcome-ui](http://welcome-ui.com).
->>>>>>> docs: remove doc links from components with no docs
-=======
 The ${
-    documentation ? `[${componentName}](${documentation})` : componentName
+    hasDocs ? `[${componentName}](${documentation})` : componentName
   } component from [@welcome-ui](http://welcome-ui.com).
->>>>>>> docs: update package.json to use homepage key
 
 ## Installation
 
@@ -79,21 +67,9 @@ The ${
 
 ## Documentation
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-See the ${documentation ? `[documentation](${documentation}) or` : ''} [package source](https://github.com/WTTJ/welcome-ui/tree/v${version}/packages/${componentName}) for more details.
-=======
-See the [documentation](${documentation}) or [package source](https://github.com/WTTJ/welcome-ui/tree/v${version}/packages/${componentName}) for more details.
->>>>>>> chore: create script for updating README files
-=======
-See the ${documentation ? `[documentation](${documentation}) or` : ''} [package source](https://github.com/WTTJ/welcome-ui/tree/v${version}/packages/${componentName}) for more details.
->>>>>>> docs: remove doc links from components with no docs
-=======
 See the ${
-    documentation ? `[documentation](${documentation}) or` : ''
-  } [package source](https://github.com/WTTJ/welcome-ui/tree/v${version}/packages/${componentName}) for more details.
->>>>>>> docs: update package.json to use homepage key
+    hasDocs ? `[documentation](${documentation}) or ` : ''
+  }[package source](https://github.com/WTTJ/welcome-ui/tree/v${version}/packages/${componentName}) for more details.
 `
 
   return content

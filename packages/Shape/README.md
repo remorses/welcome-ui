@@ -1,16 +1,6 @@
 # @welcome-ui/shape v1.5.2
-<<<<<<< HEAD
-<<<<<<< HEAD
 
 The [Shape](http://welcome-ui.com/components/shape) component from [@welcome-ui](http://welcome-ui.com).
-=======
-  
-The **[Shape](http://welcome-ui.com/components/shape)** component from [@welcome-ui](http://welcome-ui.com).
->>>>>>> chore: create script for updating README files
-=======
-
-The [Shape](http://welcome-ui.com/components/shape) component from [@welcome-ui](http://welcome-ui.com).
->>>>>>> docs: remove doc links from components with no docs
 
 ## Installation
 

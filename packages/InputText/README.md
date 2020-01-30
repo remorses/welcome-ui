@@ -1,16 +1,6 @@
 # @welcome-ui/input-text v1.6.0
-<<<<<<< HEAD
-<<<<<<< HEAD
 
 The [InputText](http://welcome-ui.com/fields/input-text) component from [@welcome-ui](http://welcome-ui.com).
-=======
-  
-The **[InputText](http://welcome-ui.com/fields/input-text)** component from [@welcome-ui](http://welcome-ui.com).
->>>>>>> chore: create script for updating README files
-=======
-
-The [InputText](http://welcome-ui.com/fields/input-text) component from [@welcome-ui](http://welcome-ui.com).
->>>>>>> docs: remove doc links from components with no docs
 
 ## Installation
 

@@ -1,16 +1,6 @@
 # @welcome-ui/pagination v1.5.2
-<<<<<<< HEAD
-<<<<<<< HEAD
 
 The [Pagination](http://welcome-ui.com/components/pagination) component from [@welcome-ui](http://welcome-ui.com).
-=======
-  
-The **[Pagination](http://welcome-ui.com/components/pagination)** component from [@welcome-ui](http://welcome-ui.com).
->>>>>>> chore: create script for updating README files
-=======
-
-The [Pagination](http://welcome-ui.com/components/pagination) component from [@welcome-ui](http://welcome-ui.com).
->>>>>>> docs: remove doc links from components with no docs
 
 ## Installation
 
