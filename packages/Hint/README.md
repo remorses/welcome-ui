@@ -1,6 +1,11 @@
 # @welcome-ui/hint v1.5.2
+<<<<<<< HEAD
 
 The [Hint](http://welcome-ui.com/components/hint) component from [@welcome-ui](http://welcome-ui.com).
+=======
+  
+The **[Hint](http://welcome-ui.com/components/hint)** component from [@welcome-ui](http://welcome-ui.com).
+>>>>>>> chore: create script for updating README files
 
 ## Installation
 

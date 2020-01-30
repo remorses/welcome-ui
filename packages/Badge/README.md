@@ -1,6 +1,11 @@
 # @welcome-ui/badge v1.5.2
+<<<<<<< HEAD
 
 The [Badge](http://welcome-ui.com/components/badge) component from [@welcome-ui](http://welcome-ui.com).
+=======
+  
+The **[Badge](http://welcome-ui.com/components/badge)** component from [@welcome-ui](http://welcome-ui.com).
+>>>>>>> chore: create script for updating README files
 
 ## Installation
 

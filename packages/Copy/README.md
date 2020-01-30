@@ -1,6 +1,11 @@
 # @welcome-ui/utils.copy v1.6.3
+<<<<<<< HEAD
 
 The [Copy](http://welcome-ui.com/utils/copy) component from [@welcome-ui](http://welcome-ui.com).
+=======
+  
+The **[Copy](http://welcome-ui.com/utils/copy)** component from [@welcome-ui](http://welcome-ui.com).
+>>>>>>> chore: create script for updating README files
 
 ## Installation
 

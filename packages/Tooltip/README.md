@@ -1,6 +1,11 @@
 # @welcome-ui/tooltip v1.6.1
+<<<<<<< HEAD
 
 The [Tooltip](http://welcome-ui.com/components/tooltip) component from [@welcome-ui](http://welcome-ui.com).
+=======
+  
+The **[Tooltip](http://welcome-ui.com/components/tooltip)** component from [@welcome-ui](http://welcome-ui.com).
+>>>>>>> chore: create script for updating README files
 
 ## Installation
 

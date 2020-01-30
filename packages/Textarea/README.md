@@ -1,6 +1,11 @@
 # @welcome-ui/textarea v1.5.2
+<<<<<<< HEAD
 
 The [Textarea](http://welcome-ui.com/fields/textarea) component from [@welcome-ui](http://welcome-ui.com).
+=======
+  
+The **[Textarea](http://welcome-ui.com/fields/textarea)** component from [@welcome-ui](http://welcome-ui.com).
+>>>>>>> chore: create script for updating README files
 
 ## Installation
 

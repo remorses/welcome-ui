@@ -1,6 +1,11 @@
 # @welcome-ui/markdown-editor v1.5.2
+<<<<<<< HEAD
 
 The [MarkdownEditor](http://welcome-ui.com/fields/markdown-editor) component from [@welcome-ui](http://welcome-ui.com).
+=======
+  
+The **[MarkdownEditor](http://welcome-ui.com/fields/markdown-editor)** component from [@welcome-ui](http://welcome-ui.com).
+>>>>>>> chore: create script for updating README files
 
 ## Installation
 

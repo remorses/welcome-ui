@@ -1,6 +1,11 @@
 # @welcome-ui/radio-tab v1.5.2
+<<<<<<< HEAD
 
 The [RadioTab](http://welcome-ui.com/fields/radio-tab) component from [@welcome-ui](http://welcome-ui.com).
+=======
+  
+The **[RadioTab](http://welcome-ui.com/fields/radio-tab)** component from [@welcome-ui](http://welcome-ui.com).
+>>>>>>> chore: create script for updating README files
 
 ## Installation
 

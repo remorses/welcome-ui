@@ -1,6 +1,11 @@
 # @welcome-ui/tabs v1.5.2
+<<<<<<< HEAD
 
 The [Tabs](http://welcome-ui.com/components/tabs) component from [@welcome-ui](http://welcome-ui.com).
+=======
+  
+The **[Tabs](http://welcome-ui.com/components/tabs)** component from [@welcome-ui](http://welcome-ui.com).
+>>>>>>> chore: create script for updating README files
 
 ## Installation
 

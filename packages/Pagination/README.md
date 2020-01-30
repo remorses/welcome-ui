@@ -1,6 +1,11 @@
 # @welcome-ui/pagination v1.5.2
+<<<<<<< HEAD
 
 The [Pagination](http://welcome-ui.com/components/pagination) component from [@welcome-ui](http://welcome-ui.com).
+=======
+  
+The **[Pagination](http://welcome-ui.com/components/pagination)** component from [@welcome-ui](http://welcome-ui.com).
+>>>>>>> chore: create script for updating README files
 
 ## Installation
 

@@ -1,6 +1,11 @@
 # @welcome-ui/radio-group v1.5.2
+<<<<<<< HEAD
 
 The [RadioGroup](http://welcome-ui.com/fields/radio-group) component from [@welcome-ui](http://welcome-ui.com).
+=======
+  
+The **[RadioGroup](http://welcome-ui.com/fields/radio-group)** component from [@welcome-ui](http://welcome-ui.com).
+>>>>>>> chore: create script for updating README files
 
 ## Installation
 

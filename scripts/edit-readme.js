@@ -50,8 +50,13 @@ const getReadmeContent = pkg => {
   } = pkg
 
   const content = `# ${name} v${version}
+<<<<<<< HEAD
 
 The ${documentation ? `[${componentName}](${documentation})` : componentName} component from [@welcome-ui](http://welcome-ui.com).
+=======
+  
+The **[${componentName}](${documentation})** component from [@welcome-ui](http://welcome-ui.com).
+>>>>>>> chore: create script for updating README files
 
 ## Installation
 
@@ -63,7 +68,11 @@ The ${documentation ? `[${componentName}](${documentation})` : componentName} co
 
 ## Documentation
 
+<<<<<<< HEAD
 See the ${documentation ? `[documentation](${documentation}) or` : ''} [package source](https://github.com/WTTJ/welcome-ui/tree/v${version}/packages/${componentName}) for more details.
+=======
+See the [documentation](${documentation}) or [package source](https://github.com/WTTJ/welcome-ui/tree/v${version}/packages/${componentName}) for more details.
+>>>>>>> chore: create script for updating README files
 `
 
   return content

@@ -1,6 +1,11 @@
 # @welcome-ui/box v1.5.2
+<<<<<<< HEAD
 
 The [Box](http://welcome-ui.com/components/box) component from [@welcome-ui](http://welcome-ui.com).
+=======
+  
+The **[Box](http://welcome-ui.com/components/box)** component from [@welcome-ui](http://welcome-ui.com).
+>>>>>>> chore: create script for updating README files
 
 ## Installation
 

@@ -1,6 +1,11 @@
 # @welcome-ui/card v1.5.2
+<<<<<<< HEAD
 
 The [Card](http://welcome-ui.com/components/card) component from [@welcome-ui](http://welcome-ui.com).
+=======
+  
+The **[Card](http://welcome-ui.com/components/card)** component from [@welcome-ui](http://welcome-ui.com).
+>>>>>>> chore: create script for updating README files
 
 ## Installation
 

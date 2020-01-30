@@ -1,6 +1,11 @@
 # @welcome-ui/date-picker v1.6.2
+<<<<<<< HEAD
 
 The [DatePicker](http://welcome-ui.com/fields/date-picker) component from [@welcome-ui](http://welcome-ui.com).
+=======
+  
+The **[DatePicker](http://welcome-ui.com/fields/date-picker)** component from [@welcome-ui](http://welcome-ui.com).
+>>>>>>> chore: create script for updating README files
 
 ## Installation
 

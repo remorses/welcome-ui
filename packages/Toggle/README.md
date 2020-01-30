@@ -1,6 +1,11 @@
 # @welcome-ui/toggle v1.5.2
+<<<<<<< HEAD
 
 The [Toggle](http://welcome-ui.com/fields/toggle) component from [@welcome-ui](http://welcome-ui.com).
+=======
+  
+The **[Toggle](http://welcome-ui.com/fields/toggle)** component from [@welcome-ui](http://welcome-ui.com).
+>>>>>>> chore: create script for updating README files
 
 ## Installation
 
