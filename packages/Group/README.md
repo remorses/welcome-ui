@@ -1,11 +1,16 @@
 # @welcome-ui/group v1.5.2
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 The [Group](http://welcome-ui.com/components/group) component from [@welcome-ui](http://welcome-ui.com).
 =======
   
 The **[Group](http://welcome-ui.com/components/group)** component from [@welcome-ui](http://welcome-ui.com).
 >>>>>>> chore: create script for updating README files
+=======
+
+The [Group](http://welcome-ui.com/components/group) component from [@welcome-ui](http://welcome-ui.com).
+>>>>>>> docs: remove doc links from components with no docs
 
 ## Installation
 

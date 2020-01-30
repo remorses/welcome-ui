@@ -1,5 +1,6 @@
 # @welcome-ui/modal v1.6.1
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 The [Modal](http://welcome-ui.com/components/modal) component from [@welcome-ui](http://welcome-ui.com).
 
@@ -16,6 +17,10 @@ The [Modal](http://welcome-ui.com/components/modal) component from [@welcome-ui]
 =======
   
 The **[Modal](http://welcome-ui.com/components/modal)** component from [@welcome-ui](http://welcome-ui.com).
+=======
+
+The [Modal](http://welcome-ui.com/components/modal) component from [@welcome-ui](http://welcome-ui.com).
+>>>>>>> docs: remove doc links from components with no docs
 
 ## Installation
 

@@ -51,12 +51,17 @@ const getReadmeContent = pkg => {
 
   const content = `# ${name} v${version}
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 The ${documentation ? `[${componentName}](${documentation})` : componentName} component from [@welcome-ui](http://welcome-ui.com).
 =======
   
 The **[${componentName}](${documentation})** component from [@welcome-ui](http://welcome-ui.com).
 >>>>>>> chore: create script for updating README files
+=======
+
+The ${documentation ? `[${componentName}](${documentation})` : componentName} component from [@welcome-ui](http://welcome-ui.com).
+>>>>>>> docs: remove doc links from components with no docs
 
 ## Installation
 
@@ -69,10 +74,14 @@ The **[${componentName}](${documentation})** component from [@welcome-ui](http:/
 ## Documentation
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 See the ${documentation ? `[documentation](${documentation}) or` : ''} [package source](https://github.com/WTTJ/welcome-ui/tree/v${version}/packages/${componentName}) for more details.
 =======
 See the [documentation](${documentation}) or [package source](https://github.com/WTTJ/welcome-ui/tree/v${version}/packages/${componentName}) for more details.
 >>>>>>> chore: create script for updating README files
+=======
+See the ${documentation ? `[documentation](${documentation}) or` : ''} [package source](https://github.com/WTTJ/welcome-ui/tree/v${version}/packages/${componentName}) for more details.
+>>>>>>> docs: remove doc links from components with no docs
 `
 
   return content

@@ -1,11 +1,16 @@
 # @welcome-ui/dropdown-menu v1.5.2
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 The [DropdownMenu](http://welcome-ui.com/components/dropdown-menu) component from [@welcome-ui](http://welcome-ui.com).
 =======
   
 The **[DropdownMenu](http://welcome-ui.com/components/dropdown-menu)** component from [@welcome-ui](http://welcome-ui.com).
 >>>>>>> chore: create script for updating README files
+=======
+
+The [DropdownMenu](http://welcome-ui.com/components/dropdown-menu) component from [@welcome-ui](http://welcome-ui.com).
+>>>>>>> docs: remove doc links from components with no docs
 
 ## Installation
 

@@ -1,11 +1,16 @@
 # @welcome-ui/button v1.5.2
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 The [Button](http://welcome-ui.com/components/button) component from [@welcome-ui](http://welcome-ui.com).
 =======
   
 The **[Button](http://welcome-ui.com/components/button)** component from [@welcome-ui](http://welcome-ui.com).
 >>>>>>> chore: create script for updating README files
+=======
+
+The [Button](http://welcome-ui.com/components/button) component from [@welcome-ui](http://welcome-ui.com).
+>>>>>>> docs: remove doc links from components with no docs
 
 ## Installation
 

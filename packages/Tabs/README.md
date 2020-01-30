@@ -1,11 +1,16 @@
 # @welcome-ui/tabs v1.5.2
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 The [Tabs](http://welcome-ui.com/components/tabs) component from [@welcome-ui](http://welcome-ui.com).
 =======
   
 The **[Tabs](http://welcome-ui.com/components/tabs)** component from [@welcome-ui](http://welcome-ui.com).
 >>>>>>> chore: create script for updating README files
+=======
+
+The [Tabs](http://welcome-ui.com/components/tabs) component from [@welcome-ui](http://welcome-ui.com).
+>>>>>>> docs: remove doc links from components with no docs
 
 ## Installation
 
